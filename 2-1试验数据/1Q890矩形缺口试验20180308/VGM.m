@@ -1,6 +1,6 @@
 clc
 clear
-A = xlsread('Q890矩形缺口试验汇总','sheet1');
+A = xlsread('Q890矩形缺口试验汇总','matlab-vgm');
 [m,n]=size(A);
 VGImono=zeros(m,n);% VGI_mono
 maxVGI = zeros(1,4);

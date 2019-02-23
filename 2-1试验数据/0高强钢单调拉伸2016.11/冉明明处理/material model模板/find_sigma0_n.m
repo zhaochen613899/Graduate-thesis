@@ -3,7 +3,7 @@ clc;
 clear all;
 %输入母材强化段的真实应力-塑性应变值，通过cftool工具拟合得到sigma0和m;
 %input data
-data=xlsread('input_base.xlsx');
+data=xlsread('input_base_10_1.xlsx');
 stress_24_1=data(:,2);
 strain_24_1=data(:,1);
 plot(strain_24_1,stress_24_1,'o');
@@ -21,7 +21,7 @@ opts.StartPoint = [1000 0.09];
 opts.Upper = [Inf 0.0906];
 % Fit model to data.
 % [fitresult_24_1, gof] = fit( xData, yData, ft, opts )
-fitresult_24_1= fit( xData, yData, ft, opts )
+fitresult_24_1 = fit( xData, yData, ft, opts )
 plot(fitresult_24_1,strain_24_1,stress_24_1)
 title 'Fitted curve'
 %write to excel
