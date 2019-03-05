@@ -44,6 +44,8 @@ for q=2:1:4
 	elseif q==4
         e3=VGImono-1
 	end
+
+    
 end
 
 [c,a,k]=solve([e1;e2;e3],'c','a','k');

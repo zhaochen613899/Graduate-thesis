@@ -3,7 +3,7 @@ clc;
 clear all;
 %输入母材强化段的真实应力-塑性应变值，通过cftool工具拟合得到sigma0和m;
 %input data
-data=xlsread('input_base_10_1.xlsx');
+data=xlsread('input_base_er120.xlsx');
 stress_24_1=data(:,2);
 strain_24_1=data(:,1);
 plot(strain_24_1,stress_24_1,'o');
