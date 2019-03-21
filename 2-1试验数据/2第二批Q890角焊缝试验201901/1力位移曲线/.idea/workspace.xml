@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b156fdd9-0a97-4865-b05b-d67da05a32e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../1试件设计与加工/0试验设计/201812第二批/机加工/机加工.bak" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1试件设计与加工/0试验设计/201812第二批/机加工/机加工.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1试件设计与加工/0试验设计/201812第二批/机加工/机加工.dwg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1试件设计与加工/0试验设计/201812第二批/机加工/机加工.dwg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1试件设计与加工/0试验设计/201901第三批/边工切板/201902Q890_10mm_20mm下料图.bak" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1试件设计与加工/0试验设计/201901第三批/边工切板/201902Q890_10mm_20mm下料图.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../1试件设计与加工/0试验设计/201901第三批/边工切板/201902Q890_10mm_20mm下料图.dwg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1试件设计与加工/0试验设计/201901第三批/边工切板/201902Q890_10mm_20mm下料图.dwg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0高强钢单调拉伸2016.11/赵琛处理/钢板标定最终版Q890-10-20.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../0高强钢单调拉伸2016.11/赵琛处理/钢板标定最终版Q890-10-20.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/1力位移曲线.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1力位移曲线.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Drawloaddef.py" beforeDir="false" afterPath="$PROJECT_DIR$/Drawloaddef.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/试件力位移曲线/所有试件/00_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/试件力位移曲线/所有试件/00_1.png" afterDir="false" />
@@ -67,7 +60,8 @@
       <change beforePath="$PROJECT_DIR$/试件力位移曲线/组试件的力位移曲线/60.png" beforeDir="false" afterPath="$PROJECT_DIR$/试件力位移曲线/组试件的力位移曲线/60.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/试件力位移曲线/组试件的力位移曲线/75.png" beforeDir="false" afterPath="$PROJECT_DIR$/试件力位移曲线/组试件的力位移曲线/75.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/试件力位移曲线/组试件的力位移曲线/90.png" beforeDir="false" afterPath="$PROJECT_DIR$/试件力位移曲线/组试件的力位移曲线/90.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../4有限元201902/有限元-试验力位移曲线.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../4有限元201902/有限元-试验力位移曲线.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../承载能力与变形能力.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../承载能力与变形能力.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4第二批有限元201902/有限元-试验力位移曲线.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../4第二批有限元201902/有限元-试验力位移曲线.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../3论文/赵琛-大论文初稿.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3论文/赵琛-大论文初稿.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,15 +71,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/1$Drawloaddef.coverage" NAME="Drawloaddef Coverage Results" MODIFIED="1552197767971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1$Drawloaddef.coverage" NAME="Drawloaddef Coverage Results" MODIFIED="1553172965710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Drawloaddef.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+            <state relative-caret-position="279">
+              <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -120,8 +128,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="242" />
-    <option name="y" value="48" />
+    <option name="x" value="-88" />
+    <option name="y" value="54" />
     <option name="width" value="1440" />
     <option name="height" value="975" />
   </component>
@@ -131,6 +139,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="1力位移曲线" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,7 +166,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,7 +174,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Drawloaddef.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -215,22 +233,23 @@
       <workItem from="1550318723691" duration="1192000" />
       <workItem from="1552185905493" duration="5192000" />
       <workItem from="1552196731294" duration="1075000" />
+      <workItem from="1553164924371" duration="2994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9292000" />
+    <option name="totallyTimeSpent" value="12286000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="242" y="48" width="1440" height="975" extended-state="0" />
+    <frame x="-88" y="54" width="1440" height="975" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21159421" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21449275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.35315102" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.48212352" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.28894174" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.16594361" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -243,8 +262,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.3311594" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.1673913" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,10 +285,17 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py" />
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1690156686/nt.py" />
     <entry file="file://I:/ExpPython/DataProcess(3).py" />
+    <entry file="file://H:/python/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3848">
+          <caret line="940" column="4" selection-start-line="940" selection-start-column="4" selection-end-line="940" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Drawloaddef.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+        <state relative-caret-position="279">
+          <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
